@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:25:02.967Z",
+  "generated_at": "2026-09-17T13:59:14.695Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -195,6 +195,84 @@
       "last_pushed_at": "2026-09-17T07:25:01.258Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-11T01:56:03.334Z",
+      "last_pushed_at": "2026-09-11T01:56:03.334Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-11T02:00:58.964Z",
+      "last_pushed_at": "2026-09-11T02:00:58.964Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-09-11T02:09:37.710Z",
+      "last_pushed_at": "2026-09-11T02:09:37.710Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-09-11T02:23:41.579Z",
+      "last_pushed_at": "2026-09-11T02:23:41.579Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2026-09-11T07:12:13.097Z",
+      "last_pushed_at": "2026-09-11T07:12:13.097Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:161": {
+      "kind": "problem",
+      "id": "161",
+      "title": "Exponential Weighted Average of Rewards",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/161",
+      "path": "problems/0161-exponential-weighted-average-of-rewards",
+      "first_solved_at": "2026-09-11T07:28:43.306Z",
+      "last_pushed_at": "2026-09-11T07:28:43.306Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

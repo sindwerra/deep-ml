@@ -1,0 +1,14 @@
+import numpy as np
+
+def exp_weighted_average(Q1, rewards, alpha):
+    """
+    Q1: float, initial estimate
+    rewards: list or array of rewards, R_1 to R_k
+    alpha: float, step size (0 < alpha <= 1)
+    Returns: float, exponentially weighted average after k rewards
+    """
+    # Your code here
+    k = len(rewards)
+    exp_array = alpha * (1 - alpha) ** np.arange(k - 1, -1, -1) 
+    result = Q1 * (1 - alpha) ** k + exp_array @ rewards
+    return result
