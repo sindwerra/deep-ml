@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:59:14.695Z",
+  "generated_at": "2026-09-17T13:59:17.143Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -273,6 +273,45 @@
       "last_pushed_at": "2026-09-11T07:28:43.306Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-12T03:35:22.637Z",
+      "last_pushed_at": "2026-09-12T03:35:22.637Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-09-12T03:38:28.050Z",
+      "last_pushed_at": "2026-09-12T03:38:28.050Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-09-12T15:07:22.722Z",
+      "last_pushed_at": "2026-09-12T15:07:22.722Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
