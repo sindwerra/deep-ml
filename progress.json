@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:59:17.143Z",
+  "generated_at": "2026-09-17T13:59:19.142Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -312,6 +312,110 @@
       "last_pushed_at": "2026-09-12T15:07:22.722Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-13T02:17:08.643Z",
+      "last_pushed_at": "2026-09-13T02:17:08.643Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-13T02:24:53.668Z",
+      "last_pushed_at": "2026-09-13T02:24:53.668Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-13T02:53:57.729Z",
+      "last_pushed_at": "2026-09-13T02:53:57.729Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-13T03:20:55.521Z",
+      "last_pushed_at": "2026-09-13T03:20:55.521Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-13T03:38:47.902Z",
+      "last_pushed_at": "2026-09-13T03:38:47.902Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-13T09:53:55.865Z",
+      "last_pushed_at": "2026-09-13T09:53:55.865Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-13T10:02:20.672Z",
+      "last_pushed_at": "2026-09-13T10:02:20.672Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-09-13T10:08:22.920Z",
+      "last_pushed_at": "2026-09-13T10:08:22.920Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
