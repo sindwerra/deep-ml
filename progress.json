@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:59:19.142Z",
+  "generated_at": "2026-09-17T13:59:21.354Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -414,6 +414,32 @@
       "path": "problems/0007-matrix-transformation",
       "first_solved_at": "2026-09-13T10:08:22.920Z",
       "last_pushed_at": "2026-09-13T10:08:22.920Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-09-15T06:05:01.087Z",
+      "last_pushed_at": "2026-09-15T06:05:01.087Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:898": {
+      "kind": "problem",
+      "id": "898",
+      "title": "Backprop a Linear Layer by Hand",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/898",
+      "path": "problems/0898-backprop-a-linear-layer-by-hand",
+      "first_solved_at": "2026-09-15T07:16:35.675Z",
+      "last_pushed_at": "2026-09-15T07:16:35.675Z",
       "language": "python",
       "lines": 10
     }
