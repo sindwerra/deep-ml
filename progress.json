@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:58:40.930Z",
+  "generated_at": "2026-09-16T08:43:32.671Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -167,6 +167,19 @@
       "path": "problems/0312-quotient-rule-for-derivatives",
       "first_solved_at": "2026-09-15T14:54:50.137Z",
       "last_pushed_at": "2026-09-15T14:58:38.215Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:313": {
+      "kind": "problem",
+      "id": "313",
+      "title": "Numerical Gradient Checking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/313",
+      "path": "problems/0313-numerical-gradient-checking",
+      "first_solved_at": "2026-09-16T08:43:31.768Z",
+      "last_pushed_at": "2026-09-16T08:43:31.768Z",
       "language": "python",
       "lines": 34
     }
